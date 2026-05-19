@@ -155,14 +155,6 @@ Future enhancements can include:
 - Portfolio profit/loss tracking
 - Data visualization charts
 
----
-
-## 👨‍💻 Author
-
-**Pradeep Borra**  
-Python Programming Intern — CodeAlpha
-
----
 
 ## ⭐ Internship Task
 
